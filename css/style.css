@@ -76,6 +76,7 @@ ul {
     align-items: center;
     justify-content: center;
     list-style: none;
+    list-style-type: none;
     overflow: hidden;
 
 }
@@ -524,6 +525,7 @@ h2 {
         flex-direction: row;
         padding-bottom: 5px;
         list-style: none;
+        list-style-type: none;
 
     }
 

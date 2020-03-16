@@ -523,6 +523,7 @@ h2 {
     ul {
         flex-direction: row;
         padding-bottom: 5px;
+        list-style: none;
 
     }
 

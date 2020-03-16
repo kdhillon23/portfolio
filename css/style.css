@@ -70,7 +70,7 @@ header {
 }
 
 /* Nav Bar  */
-#links {
+#links ul {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -521,7 +521,7 @@ h2 {
         border-bottom: 3px solid black;
     }
 
-    #links {
+    #links ul {
         flex-direction: row;
         padding-bottom: 5px;
         list-style: none;

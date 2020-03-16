@@ -89,6 +89,7 @@ li {
 li a {
     color: #2B2B2B;
     text-decoration: underline;
+    list-style-type: none;
 }
 
 li a:hover:not(.active) {
@@ -532,6 +533,7 @@ h2 {
 
     li a {
         padding: 10px;
+        list-style-type: none;
     }
 
     .myinfo h2 {
